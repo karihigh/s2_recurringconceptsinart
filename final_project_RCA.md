@@ -32,6 +32,6 @@ Proyectos con tecnología Kari:
  * [#LaConquista](https://vimeo.com/303947854)
  Diseño de visuales y tecnologías interactivas para obra de teatro. Uso de captura de imágenes mediante teléfonos móviles y Kinect en tiempo real.
  
- * [This is not a Theremin(https://sofiaitp.wordpress.com/2018/12/04/this-is-not-a-theremin/)
+ * [This is not a Theremin](https://sofiaitp.wordpress.com/2018/12/04/this-is-not-a-theremin/)
  Simulación de theremin digital utilizando AR y sensores de movimiento.
  
