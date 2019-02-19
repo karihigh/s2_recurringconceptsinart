@@ -21,3 +21,17 @@ Proyectos con tecnología Kari:
  - https://www.behance.net/gallery/48848515/Escenografia-Prehistoricos
  Un maniquí con leds para un concierto. No se en que puede convertirse... El cuerpo formado por unidades?
  
+ Proyectos Guille:
+ 
+ * [It will never be the same](https://github.com/guillemontecinos/it_will_never_be_the_same)
+ Performance musical para una persona.
+ 
+ * [Recode](https://github.com/guillemontecinos/recode)
+ Re-programación de obras visuales de artistas latinoamericanos.
+ 
+ * [#LaConquista](https://vimeo.com/303947854)
+ Diseño de visuales y tecnologías interactivas para obra de teatro. Uso de captura de imágenes mediante teléfonos móviles y Kinect en tiempo real.
+ 
+ * [This is not a Theremin(https://sofiaitp.wordpress.com/2018/12/04/this-is-not-a-theremin/)
+ Simulación de theremin digital utilizando AR y sensores de movimiento.
+ 
